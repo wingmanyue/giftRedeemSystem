@@ -1,9 +1,10 @@
 # Gift Redemption System
 A school project for an introductory C++ course.
-(Please run with MS Visual Studio, may lead to issues with functions such as strcpy_s, localtime_s when using other incompatible compilers.)
+
+**_(Please run with MS Visual Studio, may lead to issues with functions such as strcpy_s, localtime_s when using other incompatible compilers.)_**
 
 ## About
-The system maintains the records of customers and gifts which are available for redemption by customers using the shopping points called CC points. The system also allows customers to make queries on the available gifts for redemption and check the CC points balance after using using CC points on gift redemption.
+The system maintains the records of customers and gifts which are available for redemption by customers using the shopping points called CC points. The system also allows customers to make queries on the available gifts for redemption and check their CC points balance after using using CC points on gift redemption.
 
 ## Skills learned
 - Basic IO and operators
